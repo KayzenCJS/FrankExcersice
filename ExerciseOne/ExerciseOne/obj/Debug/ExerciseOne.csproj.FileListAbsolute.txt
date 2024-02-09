@@ -1,0 +1,13 @@
+C:\Users\Kay\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.csproj.AssemblyReference.cache
+C:\Users\Kay\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.calculatorPOO.resources
+C:\Users\Kay\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.Properties.Resources.resources
+C:\Users\Kay\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.csproj.GenerateResource.cache
+C:\Users\Kay\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.csproj.CoreCompileInputs.cache
+C:\Users\Kay\source\repos\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+C:\Users\Kay\source\repos\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.exe
+C:\Users\Kay\source\repos\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.pdb
+C:\Users\Kay\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.exe
+C:\Users\Kay\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.pdb
+C:\Users\Kay\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.MdiContainers.inventarioMercancias.resources
+C:\Users\Kay\source\repos\ExerciseOne\ExerciseOne\obj\Debug\AppPresentation.Designs.Textbox.RJTextbox.resources
+C:\Users\Kay\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.MdiContainers.InvAccountBank.resources
